@@ -1,7 +1,7 @@
 const moneys = document.querySelector(".moneys");
 const colorOverlay = document.querySelector(".color_overlay");
 
-let fixed=1000
+let fixed=30
 let dollars=0
 function updateMoneys(d, c) {
   dollars++
