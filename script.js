@@ -13,4 +13,4 @@ let updateTimer = window.setInterval(() => {
   if(dollars>fixed){
   clearInterval(updateTimer)
   }
-}, 5);
+}, 50);
